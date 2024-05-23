@@ -9,8 +9,8 @@
 		<version>3.1.11</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bezkoder</groupId>
-	<artifactId>spring.security.login.h2DB</artifactId>
+	<groupId>com.alex</groupId>
+	<artifactId>spring.security.login.mysql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring.security.login</name>
 	<description>Demo for Spring Security Login</description>

@@ -1,9 +1,0 @@
-2024-05-22 18:42:01 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * [*]FORM ROLES"; SQL statement:
-SELECT * FORM ROLES [42000-214]
-2024-05-22 18:46:36 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS_ROLES" not found; SQL statement:
-SELECT * FROM users_roles [42102-214]
-2024-05-22 18:46:42 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USES_ROLES" not found; SQL statement:
-SELECT * FROM uses_roles [42102-214]
