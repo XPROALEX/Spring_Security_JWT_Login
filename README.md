@@ -76,6 +76,10 @@ Per utilizzare l'applicazione, è richiesto l'utilizzo di un client API REST com
 
 Sono benvenuti i contributi sotto forma di segnalazioni di bug, richieste di nuove funzionalità o miglioramenti del codice. Per contribuire, aprire una nuova issue o inviare una pull request.
 
+## Nota Bene
+
+Questo progetto è stato creato come esercizio per approfondire e comprendere il funzionamento di Spring Security e l'utilizzo dei token JWT. È stato inserito su GitHub come promemoria personale e non è destinato a essere utilizzato in produzione.
+
 ## Contatti
 
 - [Profilo GitHub di XPROALEX](https://github.com/XPROALEX)
