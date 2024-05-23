@@ -1,4 +1,4 @@
-package com.alex.spring.security.login.models;
+package com.alex.spring.security.login.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

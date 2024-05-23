@@ -1,4 +1,4 @@
-package com.alex.spring.security.login.controllers;
+package com.alex.spring.security.login.controller;
 
 import java.util.HashSet;
 import java.util.List;
@@ -20,9 +20,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.alex.spring.security.login.models.ERole;
-import com.alex.spring.security.login.models.Role;
-import com.alex.spring.security.login.models.User;
+import com.alex.spring.security.login.model.ERole;
+import com.alex.spring.security.login.model.Role;
+import com.alex.spring.security.login.model.User;
 import com.alex.spring.security.login.payload.request.LoginRequest;
 import com.alex.spring.security.login.payload.request.SignupRequest;
 import com.alex.spring.security.login.payload.response.MessageResponse;

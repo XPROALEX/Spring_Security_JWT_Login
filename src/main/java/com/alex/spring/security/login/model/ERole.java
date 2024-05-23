@@ -1,4 +1,4 @@
-package com.alex.spring.security.login.models;
+package com.alex.spring.security.login.model;
 
 public enum ERole {
 	ROLE_USER,

@@ -1,4 +1,4 @@
-package com.alex.spring.security.login.controllers;
+package com.alex.spring.security.login.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.CrossOrigin;
